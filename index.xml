@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2015-清华大学-Web前端技术实训课程</title>
+    <link>http://thufe.github.io/</link>
+    <description>Recent content on 2015-清华大学-Web前端技术实训课程</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 05 Jul 2015 17:11:42 +0800</lastBuildDate>
+    <atom:link href="http://thufe.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1-基础实验1</title>
+      <link>http://thufe.github.io/assignments/1-%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C1/</link>
+      <pubDate>Sun, 05 Jul 2015 17:11:42 +0800</pubDate>
+      
+      <guid>http://thufe.github.io/assignments/1-%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/THUfe/assignments/raw/2015/1-%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C1.pdf&#34;&gt;基础实验1&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1-Web前端技术</title>
+      <link>http://thufe.github.io/slides/1-Web%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF/</link>
+      <pubDate>Sun, 05 Jul 2015 17:11:26 +0800</pubDate>
+      
+      <guid>http://thufe.github.io/slides/1-Web%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/THUfe/slides/raw/2015/1-Web%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF.pdf&#34;&gt;Web前端技术&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
